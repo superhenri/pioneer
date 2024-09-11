@@ -1,0 +1,11 @@
+level,question,choice1,choice2,choice3,choice4,correctAnswer
+Scout,What does ICP stand for in sales?,Ideal Customer Profile,Internal Company Policy,Integrated Customer Platform,International Client Procedure,1
+Scout,What is a KPI?,Key Performance Indicator,Key Product Insight,Knowledge Product Information,Key People Indicator,1
+Explorer,What does CTR stand for?,Click-Through Rate,Conversion Tracking Rate,Cost to Revenue,Customer Transaction Rate,1
+Explorer,Which platform is most commonly used for paid search advertising?,Google Ads,Facebook Ads,LinkedIn Ads,Twitter Ads,1
+Range,What is UTM in marketing analytics?,Urchin Tracking Module,User Tracking Metric,Universal Traffic Manager,Unique Tagging Module,1
+Range,Which attribution model gives credit to the last click in a conversion path?,Last-click attribution,Linear attribution,Time decay attribution,First-click attribution,1
+Pioneer,Which metric indicates the percentage of users who leave a website after viewing only one page?,Bounce rate,Exit rate,Click-through rate,Conversion rate,1
+Pioneer,"In Google Analytics 4, what is the new event-based model called?",Measurement Protocol,Event Tracking,Enhanced Measurement,Session Tracking,2
+Legendary Pioneer,"In performance marketing, what is the term for reducing bids to control ad spend based on real-time data?",Bid Shading,Bid Sniping,Bid Retargeting,Bid Capping,4
+Legendary Pioneer,"In Supermetrics, which data source is not available for use in the Google Sheets add-on?",TikTok Ads,Google Analytics,Microsoft Dynamics,Snapchat Ads,3
